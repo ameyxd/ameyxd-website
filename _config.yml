@@ -22,8 +22,10 @@ email:
 description: &description "Amey Ambade's Personal Website"
 twitter_username: &twitter ameyzer
 github_username: &github ameyxd
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: dark
 search: true
+port: 4000
+host: "0.0.0.0"
 
 # Build settings
 markdown: kramdown
